@@ -15,7 +15,7 @@
 
 ### Inspirations and Credits:
 
-    PythonImpressionador - Teacher Jõao Paulo Lira
+    Training course: Python Impressionador - Teacher Jõao Paulo Lira
     https://www.hashtagtreinamentos.com/
   
   
